@@ -15,7 +15,7 @@ public class TestController {
     @CrossOrigin(origins = "*", methods = {RequestMethod.POST, RequestMethod.GET, RequestMethod.OPTIONS})
     @GetMapping
     public String home() {
-    return "Hello Elice! This is from kbs with awesome cloud 4";
+    return "Hello Elice!!!!!!!!!!!!!!!!!!!!!!!!!!!!!";
     }
 
     @CrossOrigin(origins = "*", methods = {RequestMethod.POST, RequestMethod.GET, RequestMethod.OPTIONS})
